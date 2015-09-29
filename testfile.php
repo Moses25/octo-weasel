@@ -1,0 +1,7 @@
+<?php
+
+
+echo "THIS IS A JAVA THING BUT i AM USING PHP TO TEST lol, aLSO SORRY FOR SHOUTING";
+
+
+?>
